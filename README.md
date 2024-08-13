@@ -23,7 +23,7 @@ To get started with MyDemoApp, follow these instructions:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/mydemoapp.git
+https://github.com/AdityaHegde06/Android_Toast_Message/tree/main
 
    Open the Project:
 
